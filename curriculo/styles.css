@@ -1,0 +1,62 @@
+﻿#info {
+    list-style: none;
+}
+body {
+    background-color: blanchedalmond;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.dellimg {
+    width: 50%;
+}
+
+header {
+    text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    background-color: olivedrab;
+    color: white;
+}
+
+section {
+    display: flex;
+    flex-direction: ROW;
+    justify-content:  space-around;
+    background-color: blanchedalmond;
+}
+
+article {
+    border: 1px solid black;
+    width: 25%;
+    color: gray;
+    margin-top: 3%;
+}
+
+footer {
+    bottom: auto;
+}
+
+nav {
+    display: flex;
+    justify-content: space-evenly;
+    margin-top: 14%;
+}
+
+.education-list li img {
+    width: 25%;
+}
+
+.abilities-list li p {
+    display: inline;
+    margin-right: 2%;
+}
+
+.abilities-list li img {
+    display: inline;
+    width: 8%;
+}
+
+.languages-list li img {
+    display: block;
+    margin: 5% 0;
+    width: 20%;
+}

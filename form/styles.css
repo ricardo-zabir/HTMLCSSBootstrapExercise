@@ -1,0 +1,21 @@
+﻿body {
+    font-family: monospace;
+}
+label {
+    display: block;
+    padding: 10px;
+    float: both;
+}
+
+button {
+    margin-top: 10px;
+    margin-left: 10px;
+}
+
+div {
+    color: red;
+    background-color: black;
+    width: 100px;
+    height: 100px;
+    overflow: scroll;
+}
